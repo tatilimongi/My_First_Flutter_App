@@ -1,16 +1,15 @@
-# namer_app
+# My First Flutter App
+This is my first Flutter app from the Codelab written by Filip Hracek.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+* The application generates cool-sounding names, such as "newstay", "lightstream", "mainbrake", or "graypine". 
+![image](https://github.com/tatilimongi/My_First_Flutter_App/assets/117868187/3e4aca93-85ae-465a-80ac-016146e4e3e2)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* The user can ask for the next name, favorite the current one, and review the list of favorited names on a separate page.
+![image](https://github.com/tatilimongi/My_First_Flutter_App/assets/117868187/8fd3bf7a-6cf1-4f82-af2e-183f1709487d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+* The app is responsive to different screen sizes.                                                                
+![image](https://github.com/tatilimongi/My_First_Flutter_App/assets/117868187/acfca9e7-6c7d-46cb-80cc-4f360a00d2be)
